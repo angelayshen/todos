@@ -1,1 +1,2 @@
-Test changes
+Finish reading lessons
+Start reading model documentation
